@@ -1,0 +1,35 @@
+@charset "utf-8";
+/* CSS Document */
+
+.school-colors {
+	background: rgba(70,20,20,1.00) !important;
+	color: #FFFFFF;
+}
+
+.card {
+	margin: 8px auto;
+}
+
+.position {
+	float: left;
+}
+		
+.player_info p {
+	display: inline-block;
+}
+		
+.score {
+	font-weight: bold;
+	font-size: 1.5em;
+	margin: 3px auto;
+	text-align: center;
+}
+		
+.game_header {
+	font-size: .75em;
+	margin-bottom: 0;
+}
+
+.bg-black {
+	background-color: #000000;
+}
